@@ -1,0 +1,14 @@
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Conversor de unidades\bin\Debug\net10.0-windows\Conversor de unidades.exe
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Conversor de unidades\bin\Debug\net10.0-windows\Conversor de unidades.deps.json
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Conversor de unidades\bin\Debug\net10.0-windows\Conversor de unidades.runtimeconfig.json
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Conversor de unidades\bin\Debug\net10.0-windows\Conversor de unidades.dll
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Conversor de unidades\bin\Debug\net10.0-windows\Conversor de unidades.pdb
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Conversor de unidades\obj\Debug\net10.0-windows\Conversor de unidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Conversor de unidades\obj\Debug\net10.0-windows\Conversor de unidades.AssemblyInfoInputs.cache
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Conversor de unidades\obj\Debug\net10.0-windows\Conversor de unidades.AssemblyInfo.cs
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Conversor de unidades\obj\Debug\net10.0-windows\Conversor de unidades.csproj.CoreCompileInputs.cache
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Conversor de unidades\obj\Debug\net10.0-windows\Conversor de unidades.dll
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Conversor de unidades\obj\Debug\net10.0-windows\refint\Conversor de unidades.dll
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Conversor de unidades\obj\Debug\net10.0-windows\Conversor de unidades.pdb
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Conversor de unidades\obj\Debug\net10.0-windows\Conversor de unidades.genruntimeconfig.cache
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Conversor de unidades\obj\Debug\net10.0-windows\ref\Conversor de unidades.dll
