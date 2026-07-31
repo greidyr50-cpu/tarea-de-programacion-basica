@@ -1,0 +1,14 @@
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Registro de clientes\bin\Debug\net10.0-windows\Registro de clientes.exe
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Registro de clientes\bin\Debug\net10.0-windows\Registro de clientes.deps.json
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Registro de clientes\bin\Debug\net10.0-windows\Registro de clientes.runtimeconfig.json
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Registro de clientes\bin\Debug\net10.0-windows\Registro de clientes.dll
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Registro de clientes\bin\Debug\net10.0-windows\Registro de clientes.pdb
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Registro de clientes\obj\Debug\net10.0-windows\Registro de clientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Registro de clientes\obj\Debug\net10.0-windows\Registro de clientes.AssemblyInfoInputs.cache
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Registro de clientes\obj\Debug\net10.0-windows\Registro de clientes.AssemblyInfo.cs
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Registro de clientes\obj\Debug\net10.0-windows\Registro de clientes.csproj.CoreCompileInputs.cache
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Registro de clientes\obj\Debug\net10.0-windows\Registro de clientes.dll
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Registro de clientes\obj\Debug\net10.0-windows\refint\Registro de clientes.dll
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Registro de clientes\obj\Debug\net10.0-windows\Registro de clientes.pdb
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Registro de clientes\obj\Debug\net10.0-windows\Registro de clientes.genruntimeconfig.cache
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Registro de clientes\obj\Debug\net10.0-windows\ref\Registro de clientes.dll
