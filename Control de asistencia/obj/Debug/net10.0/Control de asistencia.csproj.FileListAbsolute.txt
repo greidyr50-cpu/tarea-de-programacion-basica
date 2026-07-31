@@ -1,0 +1,4 @@
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Control de asistencia\obj\Debug\net10.0\Control de asistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Control de asistencia\obj\Debug\net10.0\Control de asistencia.AssemblyInfoInputs.cache
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Control de asistencia\obj\Debug\net10.0\Control de asistencia.AssemblyInfo.cs
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Control de asistencia\obj\Debug\net10.0\Control de asistencia.csproj.CoreCompileInputs.cache

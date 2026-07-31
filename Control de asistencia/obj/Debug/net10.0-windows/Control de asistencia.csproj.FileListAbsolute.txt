@@ -1,0 +1,14 @@
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Control de asistencia\bin\Debug\net10.0-windows\Control de asistencia.exe
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Control de asistencia\bin\Debug\net10.0-windows\Control de asistencia.deps.json
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Control de asistencia\bin\Debug\net10.0-windows\Control de asistencia.runtimeconfig.json
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Control de asistencia\bin\Debug\net10.0-windows\Control de asistencia.dll
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Control de asistencia\bin\Debug\net10.0-windows\Control de asistencia.pdb
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Control de asistencia\obj\Debug\net10.0-windows\Control de asistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Control de asistencia\obj\Debug\net10.0-windows\Control de asistencia.AssemblyInfoInputs.cache
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Control de asistencia\obj\Debug\net10.0-windows\Control de asistencia.AssemblyInfo.cs
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Control de asistencia\obj\Debug\net10.0-windows\Control de asistencia.csproj.CoreCompileInputs.cache
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Control de asistencia\obj\Debug\net10.0-windows\Control de asistencia.dll
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Control de asistencia\obj\Debug\net10.0-windows\refint\Control de asistencia.dll
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Control de asistencia\obj\Debug\net10.0-windows\Control de asistencia.pdb
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Control de asistencia\obj\Debug\net10.0-windows\Control de asistencia.genruntimeconfig.cache
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Control de asistencia\obj\Debug\net10.0-windows\ref\Control de asistencia.dll
