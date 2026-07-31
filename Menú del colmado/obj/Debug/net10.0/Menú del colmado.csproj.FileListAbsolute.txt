@@ -1,0 +1,4 @@
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Menú del colmado\obj\Debug\net10.0\Menú del colmado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Menú del colmado\obj\Debug\net10.0\Menú del colmado.AssemblyInfoInputs.cache
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Menú del colmado\obj\Debug\net10.0\Menú del colmado.AssemblyInfo.cs
+C:\Users\Esta Si\OneDrive\Documentos\tarea\Menú del colmado\obj\Debug\net10.0\Menú del colmado.csproj.CoreCompileInputs.cache
